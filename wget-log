@@ -1,0 +1,20 @@
+--2024-03-26 15:44:07--  https://www.dropbox.com/scl/fi/u430bflj0wa8u40bip539/nuin443_ols_data.pickle?rlkey=x6gggiaxx3kwcn20d5lzkf2dj
+Resolving www.dropbox.com (www.dropbox.com)... 2620:100:6018:18::a27d:312, 162.125.3.18
+Connecting to www.dropbox.com (www.dropbox.com)|2620:100:6018:18::a27d:312|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: https://ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com/cd/0/inline/CP32_gP_OPqqWSU4bAPhlXpamZ5ln2ZVm8KVQJs7-chtETA2n1wU5r9ZBYwkBRQ2uuJuBYt1Hjx5R-Rfnlufjgw1oNLTk5fQetFxIUc9OeppFVN5_Z7RAbobpi0xKjfrHE4/file# [following]
+--2024-03-26 15:44:08--  https://ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com/cd/0/inline/CP32_gP_OPqqWSU4bAPhlXpamZ5ln2ZVm8KVQJs7-chtETA2n1wU5r9ZBYwkBRQ2uuJuBYt1Hjx5R-Rfnlufjgw1oNLTk5fQetFxIUc9OeppFVN5_Z7RAbobpi0xKjfrHE4/file
+Resolving ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com (ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com)... 2620:100:6018:15::a27d:30f, 162.125.3.15
+Connecting to ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com (ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com)|2620:100:6018:15::a27d:30f|:443... connected.
+HTTP request sent, awaiting response... 302 Found
+Location: /cd/0/inline2/CP2uyftIUsj9etvidEz5klsSR312zXQXxrTpX8jZx6ESCXfTVbekpgyEn1cSuMzfQA0CIXG69JCZgIo8OQ5uDugOv0G_XDxd8iAx5M8u_ubzXn2H1FVynBP4HT8WteqcASdgt3ArCl4zirHZWlewWWWcmAEuh6FPJkSqKzKCvSO-GHGfoaK6fGu0l_0CGqcocJSkirbgjX_J05mnqsU58cJTZU7NxUGG_DlFiGWbLYfwAKC114_4Izd-PF07dzzpMo-tNy4JYFw6GxqIP5TpNs_ZIqDY0eMUAObGRVF6_GnS_zz4TxH_Ke4r3awTxhow7EOejAeXA0FqD0G2789Q4PlsHv_ZukzhmO8Z3oG0MaY5YA/file [following]
+--2024-03-26 15:44:08--  https://ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com/cd/0/inline2/CP2uyftIUsj9etvidEz5klsSR312zXQXxrTpX8jZx6ESCXfTVbekpgyEn1cSuMzfQA0CIXG69JCZgIo8OQ5uDugOv0G_XDxd8iAx5M8u_ubzXn2H1FVynBP4HT8WteqcASdgt3ArCl4zirHZWlewWWWcmAEuh6FPJkSqKzKCvSO-GHGfoaK6fGu0l_0CGqcocJSkirbgjX_J05mnqsU58cJTZU7NxUGG_DlFiGWbLYfwAKC114_4Izd-PF07dzzpMo-tNy4JYFw6GxqIP5TpNs_ZIqDY0eMUAObGRVF6_GnS_zz4TxH_Ke4r3awTxhow7EOejAeXA0FqD0G2789Q4PlsHv_ZukzhmO8Z3oG0MaY5YA/file
+Reusing existing connection to [ucc8568268f1f6ede81aa98277a5.dl.dropboxusercontent.com]:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 20191 (20K) [application/octet-stream]
+Saving to: ‘nuin443_ols_data.pickle?rlkey=x6gggiaxx3kwcn20d5lzkf2dj’
+
+       nuin443   0%       0  --.-KB/s                     nuin443_ols_da 100%  19.72K  --.-KB/s    in 0.001s        
+
+2024-03-26 15:44:08 (26.5 MB/s) - ‘nuin443_ols_data.pickle?rlkey=x6gggiaxx3kwcn20d5lzkf2dj’ saved [20191/20191]
+
